@@ -287,5 +287,4 @@ MIT
 - Star and/or fork this repository
 - Trade on Binance: https://www.binance.com/?ref=13339920
 - Trade on FTX: https://ftx.com/#a=1909564
-- Trade on ByBit: https://www.bybit.com/app/register?affiliate_id=11672&language=en&group_id=0&group_type=1
 - Trade on Etoro: https://partners.etoro.com/B12999_A93472_TClick.aspx
