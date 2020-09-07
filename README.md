@@ -4,6 +4,8 @@
 
 **Trading Analysis Bot** is a Telegram chatbot for data-driven analytics of cryptocurrencies market, particularly the Binance exchange. It provides standard technical indicators, social sentiment and developer activities. Market indexes, rankings and statistic metrics based on on-chain transactions across different blockchain networks are also reported.
 
+![avatar.png](img/avatar.png)
+
 ## Run on local machine
 
 ```
@@ -56,8 +58,6 @@ heroku config:set ADMIN_USERNAME=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 git push heroku master
 heroku ps:scale bot=1 
 ```
-
-![avatar.png](img/avatar.png)
 
 ## Features
 
