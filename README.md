@@ -57,7 +57,7 @@ git push heroku master
 heroku ps:scale bot=1 
 ```
 
-{{< figure src="img/avatar.png" title="[Trading Analysis Bot](https://t.me/trading_analysis_bot)" >}}
+![avatar.png](img/avatar.png)
 
 ## Features
 
